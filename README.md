@@ -16,3 +16,5 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DavidMirabal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=DavidMirabal&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
