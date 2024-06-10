@@ -4,7 +4,6 @@
 - 🌱 I’m studying a master's degree in astrophysics.
 - 💬 Ask me about Python programming, data analysis techniques, and computational astrophysics
 - 📫 How to reach me: mirabaltar@gmail.com
-- 😄 Pronouns: He/Him
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/dxvidmb/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-mirabal-betancort-974868248/) 
