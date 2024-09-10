@@ -6,9 +6,9 @@
 - 📫 How to reach me: mirabaltar@gmail.com
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dxvidmb/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmirabalbetancort/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@dxvidmb)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dxvidmb/) 
 
 
 ## 📊 GitHub Stats:
