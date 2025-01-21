@@ -20,5 +20,3 @@
 
 [![](https://visitcount.itsvg.in/api?id=DavidMirabal&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
 ![](https://hit.yhype.me/github/profile?account_id=130062617)
-
-<meta name="google-site-verification" content="rcBKiCp47P07OxVwx5sqG2AmkW32bk0_ApLd1e-25n0" />
