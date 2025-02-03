@@ -16,7 +16,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMirabal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DavidMirabal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=DavidMirabal&theme=onedark)](https://github.com/DavidMirabal/github-profile-trophy)
 
 [![](https://visitcount.itsvg.in/api?id=DavidMirabal&label=Profile%20Views&color=8&icon=5&pretty=true)](https://visitcount.itsvg.in)
 <div align="center">
