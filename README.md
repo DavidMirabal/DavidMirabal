@@ -24,4 +24,6 @@
         src="https://widgetbite.com/stats/DavidMirabal"/>  
 </div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDavidMirabal&count_bg=%23C445BE&title_bg=%23555555&icon=github.svg&icon_color=%23F7F7F7&title=views&edge_flat=false)](https://hits.seeyoufarm.com)
+
 ![](https://hit.yhype.me/github/profile?account_id=130062617)
