@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on the star formation history of our Galaxy
 - 🌱 PhD student in astrophysics
 - 💬 Ask me about Python programming, data analysis techniques, and computational astrophysics
-- 📫 How to reach me: astromirabal@gmail.com
+- 📫 How to reach me: david.mirabal@iac.es
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davidmirabalbetancort/)
