@@ -24,8 +24,4 @@ class="underline"
 
 
 ## 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=DavidMirabal&theme=blueberry)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidMirabal&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=DavidMirabal&theme=onedark)](https://github.com/DavidMirabal/github-profile-trophy)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DavidMirabal&theme=dark-smoky&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
