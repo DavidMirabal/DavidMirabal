@@ -24,4 +24,4 @@ class="underline"
 
 
 ## 📊 GitHub Stats:
-[![GitHub Streak](https://streak-stats.demolab.com?user=DavidMirabal&theme=dark-smoky&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)<br/>
+[![](https://streak-stats.demolab.com/?user=DavidMirabal&theme=dark-smoky&hide_border=true&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
